@@ -1,0 +1,10 @@
+create table USER_INFO(
+       USER_NAME VARCHAR(50) primary key,
+       PASSWORD VARCHAR(32),
+       SALT VARCHAR(32),
+       GENDER VARCHAR(1),
+       AGE VARCHAR(3)
+);
+
+insert into user_info (USER_NAME, PASSWORD, SALT, GENDER, AGE)
+values ('ZhangChao', '8879D6CEAB6CED46F0003F831464BB7C', '6C716484F6FA135728B2FA895683192D', '男', '24');
