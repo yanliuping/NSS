@@ -5,9 +5,6 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" type="text/css" href="Semantic/semantic.min.css">
-<script src="Semantic/juqery-3.3.1.min.js"></script>
-<script src="Semantic/semantic.min.js"></script>
 <title>Welcome to use Nursing Service System</title>
 
 <%
