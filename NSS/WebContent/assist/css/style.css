@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.login-body {
+	background: url(../img/bg005.jpg) no-repeat center fixed;
+}
+
+.login-div {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 25%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.no-border {
+	border-width: 0px;
+}
+
+.btn {
+	border-radius: 5px;
+	font-size: 14pt;
+	border-width: 0px;
+}
+
+.color-deepgreen {
+	background-color: #00688B;
+}
+
+.bg-color-deepgreen {
+	background-color: #00688B;
+}
